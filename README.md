@@ -1,9 +1,9 @@
 # CS330-Comp-Graphic-and-Visualization Final Project
 
 
-# H1-Junyu Liang
+# Junyu Liang
 
-# H1- Welcome to the project repository for my CS 330 Computer Graphics and Visualization course at SNHU Online!
+# Welcome to the project repository for my CS 330 Computer Graphics and Visualization course at SNHU Online!
 
 This course focused on 3D object creation using OpenGL with C++, emphasizing transformations, camera control, and scene construction. While the base code was adapted from tutorial materials, I implemented significant improvements to the architecture:
 
