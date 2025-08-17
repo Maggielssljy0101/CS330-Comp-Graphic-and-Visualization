@@ -1,7 +1,7 @@
-# CS330-Comp-Graphic-and-Visualization
-**Final project**
+# CS330-Comp-Graphic-and-Visualization Final Project
 
-#H1-Junyu Liang
+
+# H1-Junyu Liang
 
 # H1- Welcome to the project repository for my CS 330 Computer Graphics and Visualization course at SNHU Online!
 
