@@ -25,7 +25,9 @@ Browse through the source code and explore the different assignments and project
 
 Below are some screenshots from my project:
 
-![Alt text](Screenshot 2025-08-17 221034.png)
+![3D Scene 1](Screenshot_2025-08-17_221034.png)
 
-![Alt text](Screenshot 2025-08-17 221124.png)
+![3D Scene 1](Screenshot_2025-08-17_221124.png)
+
+
 
