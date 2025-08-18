@@ -26,6 +26,3 @@ Browse through the source code and explore the different assignments and project
 Below is a screenshot from my project:
 
 ![3D Scene 1](Screenshot_2025-08-17_221034.png)
-
-
-
