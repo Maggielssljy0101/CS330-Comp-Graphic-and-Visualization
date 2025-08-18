@@ -23,11 +23,9 @@ Browse through the source code and explore the different assignments and project
 
 # Final project: Replicate a 2D image into a 3D scene. 
 
-Below are some screenshots from my project:
+Below is a screenshot from my project:
 
 ![3D Scene 1](Screenshot_2025-08-17_221034.png)
-
-![3D Scene 1](Screenshot_2025-08-17_221124.png)
 
 
 
