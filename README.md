@@ -15,7 +15,13 @@ This course focused on 3D object creation using OpenGL with C++, emphasizing tra
 
 Browse through the source code and explore the different assignments and projects developed throughout the course. The Final Project folder contains the culmination of my learning, including full documentation and a project summary report.
 
-Feel free to clone and reuse any part of this repository. I’ve included inline comments in SceneBuilder.cpp to help you get started. If your goal is simply to render shapes in a 3D environment, that's the only file you’ll need to modify.
+
 
 
 ---------------------------------------------------------------------------------------------------------------------------
+
+
+# Final project: Replicate a 2D image into a 3D scene. 
+
+Below are some screenshots from my project:
+
