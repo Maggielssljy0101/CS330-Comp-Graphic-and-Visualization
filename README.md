@@ -30,7 +30,7 @@ Below is a screenshot from my project:
 ----------------------------------------------------------------------------------------------------------------------------
 ## Animation: Coding Collisions
 
-📽️ [Watch the 3D animation](Videos2025-08-24_220542_258.mp4)
+📽️ [Watch the 3D animation](Videos2025-08-24_220542_258-ezgif.com-video-to-gif-converter.gif)
 
 # How do I approach designing software?
   This project taught me the importance of planning software structure from the ground up. I focused on organizing the code by defining clear responsibilities across different classes—for example, separating the paddle, ball, and brick logic into their own files. This modularity made my design cleaner and easier to maintain. It also allowed me to reuse and tweak components without introducing bugs elsewhere in the system. The design process I followed was iterative: I began with a working prototype, then refined both logic and visuals in stages. I frequently paused to review what I’d built, test edge cases, and ask whether new features fit into the architecture without overcomplicating it. These tactics—starting small, breaking down systems, and refactoring often—are highly transferable to any future software project I take on.
